@@ -18,3 +18,5 @@ Great way to manage stress because it engages both hands and mind which can have
 Develops eye hand coordination 
 
 Provides sense of achievement
+
+Origami is fun 

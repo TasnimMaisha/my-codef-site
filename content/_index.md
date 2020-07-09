@@ -28,4 +28,6 @@ Provides sense of achievement
 5. Fold down the tip of the top layer which will create the beak 
 6. Then flip swan over and fold it in half vertically 
 7. Finally, pull the neck and beak away from body, pinching the fold (the neck should be 90 degree from the body).
+
+### Here is a clip, showing how to fold an origami swan 
 https://www.youtube.com/watch?time_continue=91&v=_U-pYvBNAQQ&feature=emb_logo

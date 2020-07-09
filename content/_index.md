@@ -3,7 +3,7 @@ title: ""
 date: 2020-07-07T11:13:58+01:00
 draft: false
 ---
-# *Reasons to why you should start doing Oragami*
+# *Reasons to why you should start doing Origami*
 
 Improves fine motor skills and brain development 
 

@@ -19,4 +19,12 @@ Develops eye hand coordination
 
 Provides sense of achievement
 
-Origami is fun 
+## How to make a simple swan 
+### Step by Step
+1. Square piece of paper, fold diagonally then open it back up
+2. Fold the 2 corners in towards the center crease, forming a kite 
+3. Flip the paper over then fold the 2 corners into the center crease again 
+4. Next fold the kite in half, so brings the bottom of the tail to meet the top corner.
+5. Fold down the tip of the top layer which will create the beak 
+6. Then flip swan over and fold it in half vertically 
+7. Finally, pull the neck and beak away from body, pinching the fold (the neck should be 90 degree from the body).
